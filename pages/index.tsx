@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <strong>NO</strong> es el cumple de <a href="https://paisanos.io">Seba!</a>
+          Hoy <strong>SI</strong> es el cumple de <a href="https://paisanos.io">Sebi!</a>
           <Image src="/sebi.jpg" alt="Sebi NO cumple" width={250} height={350} />
         </h1>
       </main>
